@@ -1,5 +1,8 @@
 # ORP Salinity Sensor - *Science Olympiad Gold Medal*
 ![ORP main pic](https://github.com/ibyteibit/ORP-Salinity-Sensor/blob/main/pics/ORP.png)
+<br></br>
+**Project Dates:** Jan - Apr 2024
+
 ## Description
 - An Oxidation-Reduction Potential salinity sensor that measures the NaCl concentration of a solution and displays it on the Arduino Serial Monitor
 - The probe consists of a Cu/CuSO₄ half-cell and an Ag wire which generate a voltage when dipped in solution
